@@ -1,5 +1,10 @@
 /*
-!src/
+!back
+!bean
+!cache
+!dao
+!service
+!task
 !pom.xml
 !.gitignore
 !README.md
